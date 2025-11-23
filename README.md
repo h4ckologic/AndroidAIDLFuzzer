@@ -268,8 +268,8 @@ SOFTWARE.
 
 ## Authors
 
-- @hardw00t — lead fuzzing researcher
-- @h4ckologic — Android offensive security engineer
+- @hardw00t 
+- @h4ckologic 
 
 This tool was crafted as part of the HackLu 2025 conference demo to showcase organic Android AIDL service fuzzing techniques.
 
